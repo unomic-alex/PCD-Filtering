@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\bin\Debug\BATMAN_WIN.exe.config
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\bin\Debug\BATMAN_WIN.exe
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\bin\Debug\BATMAN_WIN.pdb
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\obj\Debug\BATMAN_WIN.Properties.Resources.resources
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\obj\Debug\BATMAN_WIN.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\obj\Debug\BATMAN_WIN.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\obj\Debug\BATMAN_WIN.exe
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\obj\Debug\BATMAN_WIN.pdb
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\bin\Debug\ArenaNET_v140.dll
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\bin\Debug\SaveNET_v140.dll
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\obj\Debug\BATMAN_WIN.csproj.CopyComplete
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\obj\Debug\BATMAN_WIN.Form1.resources
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\bin\Debug\ArenaManager.dll
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\bin\Debug\ArenaManager.pdb
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\bin\Debug\netchartdir.dll
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\bin\Debug\netchartdir.xml
+C:\Users\User\source\repos\BATMAN_WIN\BATMAN_WIN\obj\Debug\BATMAN_WIN.csprojAssemblyReference.cache

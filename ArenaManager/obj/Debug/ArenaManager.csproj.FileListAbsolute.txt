@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\BATMAN_WIN\ArenaManager\bin\Debug\ArenaManager.dll
+C:\Users\User\source\repos\BATMAN_WIN\ArenaManager\bin\Debug\ArenaManager.pdb
+C:\Users\User\source\repos\BATMAN_WIN\ArenaManager\bin\Debug\ArenaNET_v140.dll
+C:\Users\User\source\repos\BATMAN_WIN\ArenaManager\bin\Debug\SaveNET_v140.dll
+C:\Users\User\source\repos\BATMAN_WIN\ArenaManager\obj\Debug\ArenaManager.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BATMAN_WIN\ArenaManager\obj\Debug\ArenaManager.csproj.CopyComplete
+C:\Users\User\source\repos\BATMAN_WIN\ArenaManager\obj\Debug\ArenaManager.dll
+C:\Users\User\source\repos\BATMAN_WIN\ArenaManager\obj\Debug\ArenaManager.pdb
+C:\Users\User\source\repos\BATMAN_WIN\ArenaManager\obj\Debug\ArenaManager.csprojAssemblyReference.cache
